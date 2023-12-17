@@ -1,5 +1,5 @@
 # Guessing-Number-Games
-**===============================================**
+**=======================================**
 
 1. ## Apaan emang?
   - Program ini saya buat sebagai latihan dalam belajar
@@ -54,5 +54,5 @@
   panjang lebar kayak repository-repository
   terkenal 😓😓😓
 
-**===============================================**
+**=======================================**
 # TERIMA KASIH
