@@ -6,7 +6,7 @@ fn main() {
     let angka_target = rand::thread_rng().gen_range(1..=100);
     println!("Game menebak angka!\nTebaklah angka dari 1 - 100\n");
     println!("\t-Jika player benar, program akan berhenti");
-    println!("\t-Jika player salah, program akan terus berjalan\n")
+    println!("\t-Jika player salah, program akan terus berjalan\n");
 
     loop {
         let mut angka_input = String::new();
