@@ -32,12 +32,12 @@
 
 3. ## Gimana cara kerjanya???
   - Simple nya, core dari program ini adalah *crate*
-  ***rand*** yang berisi fungsi untuk memghasilkan
+  ***rand*** yang berisi fungsi untuk menghasilkan
   angka random yang nantinya akan ditebak oleh player
 
   - Di file *Cargo.toml*, saya menambahkan *dependencies*
-  berupa ***rand*** dengan versi "0.8.5"
-  untuk lebih jelas, lihat kode dibawah: 
+  berupa ***rand*** dengan versi "0.8.5".
+  Untuk lebih jelas, lihat kode dibawah: 
   ```toml
   [dependencies]
   rand = "0.8.5"
